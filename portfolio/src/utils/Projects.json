@@ -12,7 +12,7 @@
             "Javascript"
         ],
         "title": "UX/UI Design & Front-End Web Development for DizzitUp",
-        "image": "./dizzituphomepage.gif"
+        "image": "images/dizzituphomepage.gif"
     }, 
         {
         "id": "1",
@@ -28,7 +28,7 @@
             "sanity"
         ],
         "title": "API Weather Dashboard",
-        "image": "./weatherDashboard.png"
+        "image": "images/weatherDashboard.png"
     },
     {
         "id": "2",
@@ -43,7 +43,7 @@
             "Javascript"
         ],
         "title": "Random Password Generator",
-        "image": "./randomPasswordGenerator.png"
+        "image": "images/randomPasswordGenerator.png"
     },
 
     {
@@ -62,7 +62,7 @@
             "Javascript"
         ],
         "title": "Trivia Twist",
-        "image": "./triviatwist.gif"
+        "image": "images/triviatwist.gif"
     },
     {
         "id": "4",
@@ -78,7 +78,7 @@
             "sanity"
         ],
         "title": "Browser Alert Rock, Paper, Scissors",
-        "image": "./rock-paper-scissors.png"
+        "image": "images/rock-paper-scissors.png"
     },
 
     {
@@ -95,7 +95,7 @@
             "sanity"
         ],
         "title": "Professional README Generator",
-        "image": "./readme.png"
+        "image": "images/readme.png"
     }
 
 ]
