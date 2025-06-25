@@ -1,2 +1,4 @@
 # React-Portfolio
-A portfolio built using react
+A portfolio built by scratch using React.
+
+
