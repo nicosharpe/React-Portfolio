@@ -5,14 +5,14 @@ import Container from 'react-bootstrap/Container';
 import Nav from 'react-bootstrap/Nav';
 import Navbar from 'react-bootstrap/Navbar';
 import NavDropdown from 'react-bootstrap/NavDropdown';
-import logo from 'images/Comp 1.gif'
+
 
 
 function Navigation() {
   return (
     <Navbar bg="dark" data-bs-theme="dark">
     <Container fluid>
-      <h1><NavLink className = "link" to="/"><img className="logoImg" src={logo}></img></NavLink></h1>
+      <h1><NavLink className = "link" to="/"><img className="logoImg" src={"/React-Portfolio/images/Comp%201.gif"}></img></NavLink></h1>
       <Navbar.Toggle aria-controls="basic-navbar-nav" />
       <Navbar.Collapse id="basic-navbar-nav">
         <Nav className="ms-auto">
