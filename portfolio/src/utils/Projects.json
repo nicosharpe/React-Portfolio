@@ -1,0 +1,101 @@
+[
+    {
+        "id": "0",
+        "description": "I joined DizzitUp as a Front-End Web Development Intern. After I familiarised myself with their previous website that we were to begin coding on, I quickly realised they would benefit greatly from a redesign focussed on simplifying the Users experience and streamlining the calls to action to encourage users to complete payments and revisit the site in the future as repeat customers. ",
+        "link": "https:www.google.com",
+        "place": "EdX",
+        "projectType": "Javascript",
+        "deployedUrl": "https://dizzitup.com/",
+        "figmaUrl": "https://www.figma.com/design/4aLd3TDilFKOQkA8SY9jGH/DizzitUp-UI-design-draft?node-id=0-1&t=igZ7DTTpHXBRQhRE-1",
+        "tags": [
+            "project",
+            "Javascript"
+        ],
+        "title": "UX/UI Design & Front-End Web Development for DizzitUp",
+        "image": "./dizzituphomepage.gif"
+    }, 
+        {
+        "id": "1",
+        "description": "This app uses the OpenWeather API to tell the user the weather for any city, it will also save recent searches as buttons so you can easily look at your favourite cities again. Simply type in a city name and hit search, you will then be presented with the city, date, an icon representation of weather conditions, temperature, humidity and wind speed. TO COME - You will also be shown a 5 day weather forecast for the city you searched for.",
+        "link": "https://www.google.com",
+        "place": "Mars",
+        "deployedUrl": "https://nicosharpe.github.io/nicos-weather-dashboard/",
+        "githubUrl": "https://github.com/nicosharpe/nicos-weather-dashboard",
+        "projectType": "personal",
+        "tags": [
+            "personal",
+            "project",
+            "sanity"
+        ],
+        "title": "API Weather Dashboard",
+        "image": "./weatherDashboard.png"
+    },
+    {
+        "id": "2",
+        "description": "I built this password generator to prompt the user, asking questions about desired password length and character types (uppercase, lowercase, numerical and symbols) and then based off the users preferences, the code then makes sure it includes at least one from each category and then fills in the rest at random from the requested categories until the character amount equals the amount the user requested. ",
+        "link": "https:www.google.com",
+        "place": "EdX",
+        "projectType": "Javascript",
+        "deployedUrl": "https://nicosharpe.github.io/a-random-password-generator/",
+        "githubUrl": "https://github.com/nicosharpe/a-random-password-generator",
+        "tags": [
+            "project",
+            "Javascript"
+        ],
+        "title": "Random Password Generator",
+        "image": "./randomPasswordGenerator.png"
+    },
+
+    {
+        "id": "3",
+        "description": "A single page React application for a Trivia Quiz, built using the Open Trivia Database API. This was my group's final project for the edX Front-End Web Development course. The quiz offers users a fun and interactive experience, with thoughtfully selected questions from different categories and difficulty levels. The app also features animations and sound effects to make it more exciting. After finishing the quiz, users can enter their name to see how they rank on the leaderboard, making it competitive and engaging.",
+        "link": "https://www.google.com",
+        "place": "EdX",
+        "deployedUrl": "https://triviatwist.netlify.app",
+        "githubUrl": "https://github.com/timsbootcamp/trivia-twist",
+        "projectType": "Group Project",
+        "tags": [
+            "personal",
+            "project",
+            "React",
+            "CSS",
+            "Javascript"
+        ],
+        "title": "Trivia Twist",
+        "image": "./triviatwist.gif"
+    },
+    {
+        "id": "4",
+        "description": "A game of Rock, Paper, Scissors vs Computer. You can play in the pop-up alert at the top of the browser. The browser will choose either Rock, Paper or Scissors at random -- user will input R, P or S as their selection and, based off what the browser selected, will be told wether that round was a TIE, WIN or LOSS. After 10 rounds the alert will display the total amount of wins, ties and losses.",
+        "link": "https://www.google.com",
+        "place": "Mars",
+        "deployedUrl": "https://nicosharpe.github.io/alert-rock-paper-scissors/",
+        "githubUrl": "https://github.com/nicosharpe/alert-rock-paper-scissors",
+        "projectType": "personal",
+        "tags": [
+            "personal",
+            "project",
+            "sanity"
+        ],
+        "title": "Browser Alert Rock, Paper, Scissors",
+        "image": "./rock-paper-scissors.png"
+    },
+
+    {
+        "id": "5",
+        "description": "A professional README generator that uses the Inquirer npm package to ask the user questions in the VScode (or similar) terminal, then uses the answers to fill out the readme, including a badge at the top specifying which license you have used for your project.",
+        "link": "https://www.google.com",
+        "place": "Mars",
+        "deployedUrl": "https://youtu.be/eNJ2XewNh8Y",
+        "githubUrl": "https://github.com/nicosharpe/professional-readme-generator",
+        "projectType": "personal",
+        "tags": [
+            "personal",
+            "project",
+            "sanity"
+        ],
+        "title": "Professional README Generator",
+        "image": "./readme.png"
+    }
+
+]
